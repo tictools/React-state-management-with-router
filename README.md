@@ -1,8 +1,20 @@
-# React + Vite
+<div style="text-align: center">
+   <img src="./public/React-icon.svg" alt="DOM Tree" width="100" />
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React State Management With Router
 
-Currently, two official plugins are available:
+React State Management demo with Router based on [**fullstackopen** course](https://fullstackopen.com/en/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contents
+
+- useState
+- React Router
+- unit testing
+- fluid design (mobile first)
+
+## Deploy
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/07c81922-fd67-42d9-9515-9a2ef69f9c61/deploy-status)](https://app.netlify.com/sites/react-state-with-router/deploys)
+
+[https://react-statistics-anecdotes-state.netlify.app/](https://react-state-with-router.netlify.app/)
