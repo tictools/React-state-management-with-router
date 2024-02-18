@@ -17,4 +17,4 @@ React State Management demo with Router based on [**fullstackopen** course](http
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/07c81922-fd67-42d9-9515-9a2ef69f9c61/deploy-status)](https://app.netlify.com/sites/react-state-with-router/deploys)
 
-[https://react-statistics-anecdotes-state.netlify.app/](https://react-state-with-router.netlify.app/)
+[https://react-state/with/router.netlify.app/](https://react-state-with-router.netlify.app/)
